@@ -668,7 +668,7 @@ while True:
             chapter7()
         else:
             print("Invalid choice. Please Choose again.")
-        exit
+        exit()
 
 
     elif con == "N":
